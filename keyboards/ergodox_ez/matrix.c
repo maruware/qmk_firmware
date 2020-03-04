@@ -52,7 +52,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
 #ifndef DEBOUNCE
-#   define DEBOUNCE	10
+#   define DEBOUNCE	5
 #endif
 
 /* matrix state(1:on, 0:off) */
